@@ -1,0 +1,11 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ContactCTA from '../components/ContactCTA.astro';
+import { experienceAreas } from '../data/experience';
+---
+<Layout title="Experience" description="Wade Olcott brings more than 20 years of leadership experience within businesses now part of Visa Inc., spanning revenue operations, sales strategy, analytics and technology.">
+<section class="wrap page-hero"><p class="eyebrow">Experience</p><h1>Experience earned<br/>inside the business.</h1><p class="text-xl">Practical leadership across sales strategy, Revenue Operations, analytics, and sales technology.</p></section>
+<section class="section bg-[#eef1ee]"><div class="wrap grid md:grid-cols-2 gap-12 md:gap-24"><div><h2>A perspective shaped by doing.</h2><p>I spent more than 20 years building my career within businesses that are now part of Visa Inc., including senior leadership roles in global sales operations, analytics, and sales technology.</p><p>I've led teams, helped improve planning and reporting, and worked with leaders across functions to connect day-to-day operations to business priorities.</p><p>These are examples from my professional career—not RevLytics client engagements. They're intentionally described at a high level to respect my former employer's confidential information.</p></div><div class="border-l border-[#cbd4d8] pl-8 md:pl-12 flex flex-col justify-center gap-8"><div><span class="number">20+</span><p>years of experience</p></div><div><h3>VP-level leadership</h3><p>Sales operations, analytics and technology</p></div><div><h3>Global perspective</h3><p>Cross-functional leadership and execution</p></div></div></div></section>
+<section class="section"><div class="wrap"><p class="eyebrow">Selected experience</p><h2>Problems I've helped solve.</h2><p class="max-w-2xl">My work has involved making complex operations easier for leaders and teams to understand and manage. These are the kinds of challenges I've helped address.</p><div class="grid md:grid-cols-2 gap-10 mt-12">{experienceAreas.map(area=><article class="focus"><h3>{area.title}</h3><p>{area.challenge}</p><p>{area.contribution}</p></article>)}</div></div></section>
+<ContactCTA/>
+</Layout>
