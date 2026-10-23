@@ -55,7 +55,9 @@ export const articles = [
     "category": "Operations",
     "description": "Managing requests and priorities without losing focus.",
     "originalUrl": "https://www.rev-lytics.com/post/optimizing-revenue-operations-managing-requests-efficiently-with-ticketing-systems-and-agile-method",
-    "status": "pending-review"
+    "status": "migrated",
+    "localUrl": "/insights/optimizing-revenue-operations-managing-requests-efficiently-with-ticketing-systems-and-agile-method/",
+    "updated": "2024-12-05"
   },
   {
     "title": "Navigating the Challenges of Usage-Based Pricing in Fintech: Strategies for Success",
