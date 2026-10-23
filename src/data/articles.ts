@@ -70,6 +70,8 @@ export const articles = [
     "category": "Fintech",
     "description": "Common risks and tradeoffs in usage-based commercial models.",
     "originalUrl": "https://www.rev-lytics.com/post/navigating-the-challenges-of-usage-based-pricing-in-fintech-strategies-for-success",
-    "status": "pending-review"
+    "status": "migrated",
+    "localUrl": "/insights/navigating-the-challenges-of-usage-based-pricing-in-fintech-strategies-for-success/",
+    "updated": "2024-11-20"
   }
 ];
