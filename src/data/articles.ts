@@ -1,5 +1,5 @@
 // Inventory verified against the original RevLytics Wix blog, October 2026.
-// Links intentionally point to the original articles until full-text, confidentiality-reviewed migration is complete.
+// All seven articles have been migrated to local Insights pages. Original Wix URLs are retained for future redirect mapping.
 export const articles = [
   {
     "title": "Unlocking Sales Efficiency with CPQ: The Ultimate Guide for Businesses",
@@ -8,7 +8,8 @@ export const articles = [
     "category": "Sales technology",
     "description": "How CPQ can support a more consistent and efficient sales process.",
     "originalUrl": "https://www.rev-lytics.com/post/unlocking-sales-efficiency-with-cpq-the-ultimate-guide-for-businesses",
-    "status": "pending-review"
+    "status": "migrated",
+    "localUrl": "/insights/unlocking-sales-efficiency-with-cpq-the-ultimate-guide-for-businesses/"
   },
   {
     "title": "Building the Right Foundations: The Key to Scalable Business Insights",
