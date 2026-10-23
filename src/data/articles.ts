@@ -44,7 +44,9 @@ export const articles = [
     "category": "Forecasting",
     "description": "Why sales should own the forecast and RevOps should support it with standards and tools.",
     "originalUrl": "https://www.rev-lytics.com/post/the-role-of-revenue-operations-in-enterprise-sales-pipeline-forecasting",
-    "status": "pending-review"
+    "status": "migrated",
+    "localUrl": "/insights/the-role-of-revenue-operations-in-enterprise-sales-pipeline-forecasting/",
+    "updated": "2024-11-20"
   },
   {
     "title": "Optimizing Revenue Operations: Managing Requests Efficiently with Ticketing Systems and Agile Methodology",
