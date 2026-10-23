@@ -28,7 +28,9 @@ export const articles = [
     "category": "Payments",
     "description": "A perspective on payment systems and business growth.",
     "originalUrl": "https://www.rev-lytics.com/post/unlocking-payments-potential-how-payments-consulting-can-drive-business-growth",
-    "status": "pending-review"
+    "status": "migrated",
+    "localUrl": "/insights/unlocking-payments-potential-how-payments-consulting-can-drive-business-growth/",
+    "updated": "2024-11-20"
   },
   {
     "title": "Cleaning Up Dirty Sales Data: A Path to Improved Accuracy",
