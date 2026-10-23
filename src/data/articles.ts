@@ -17,7 +17,9 @@ export const articles = [
     "category": "Analytics",
     "description": "Why growing organizations need sound data foundations.",
     "originalUrl": "https://www.rev-lytics.com/post/building-the-right-foundations-the-key-to-scalable-business-insights",
-    "status": "pending-review"
+    "status": "migrated",
+    "localUrl": "/insights/building-the-right-foundations-the-key-to-scalable-business-insights/",
+    "updated": "2024-11-20"
   },
   {
     "title": "Unlocking Payments Potential: How Payments Consulting Can Drive Business Growth",
