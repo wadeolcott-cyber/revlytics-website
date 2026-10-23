@@ -37,7 +37,9 @@ export const articles = [
     "category": "Data quality",
     "description": "The importance of reliable sales data for reporting and decision-making.",
     "originalUrl": "https://www.rev-lytics.com/post/cleaning-up-dirty-sales-data-a-path-to-improved-accuracy",
-    "status": "pending-review"
+    "status": "migrated",
+    "localUrl": "/insights/cleaning-up-dirty-sales-data-a-path-to-improved-accuracy/",
+    "updated": "2024-11-20"
   },
   {
     "title": "The Role of Revenue Operations in Enterprise Sales Pipeline Forecasting",
