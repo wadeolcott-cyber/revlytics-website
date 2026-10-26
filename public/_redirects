@@ -2,6 +2,7 @@
 # Keep the Wix site active until the domain migration and redirects have been verified.
 /free-audit /how-i-work/ 301
 /gtmanalytics /how-i-work/ 301
+/paymentsconsulting /how-i-work/ 301
 /blog /insights/ 301
 
 # Wix blog post URLs mapped individually to the migrated articles.
