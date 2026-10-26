@@ -1,0 +1,15 @@
+# Legacy Wix paths. Effective when the production domain is served by Cloudflare Pages.
+# Keep the Wix site active until the domain migration and redirects have been verified.
+/free-audit /how-i-work/ 301
+/gtmanalytics /how-i-work/ 301
+/paymentsconsulting /how-i-work/ 301
+/blog /insights/ 301
+
+# Wix blog post URLs mapped individually to the migrated articles.
+/post/unlocking-sales-efficiency-with-cpq-the-ultimate-guide-for-businesses /insights/unlocking-sales-efficiency-with-cpq-the-ultimate-guide-for-businesses/ 301
+/post/building-the-right-foundations-the-key-to-scalable-business-insights /insights/building-the-right-foundations-the-key-to-scalable-business-insights/ 301
+/post/unlocking-payments-potential-how-payments-consulting-can-drive-business-growth /insights/unlocking-payments-potential-how-payments-consulting-can-drive-business-growth/ 301
+/post/cleaning-up-dirty-sales-data-a-path-to-improved-accuracy /insights/cleaning-up-dirty-sales-data-a-path-to-improved-accuracy/ 301
+/post/the-role-of-revenue-operations-in-enterprise-sales-pipeline-forecasting /insights/the-role-of-revenue-operations-in-enterprise-sales-pipeline-forecasting/ 301
+/post/optimizing-revenue-operations-managing-requests-efficiently-with-ticketing-systems-and-agile-method /insights/optimizing-revenue-operations-managing-requests-efficiently-with-ticketing-systems-and-agile-method/ 301
+/post/navigating-the-challenges-of-usage-based-pricing-in-fintech-strategies-for-success /insights/navigating-the-challenges-of-usage-based-pricing-in-fintech-strategies-for-success/ 301

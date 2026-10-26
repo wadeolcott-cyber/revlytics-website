@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rev-lytics.com/sitemap.xml
