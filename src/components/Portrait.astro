@@ -1,0 +1,5 @@
+---
+import { existsSync } from 'node:fs';
+const hasPortrait=existsSync(new URL('../../public/images/wade-portrait.webp',import.meta.url));
+---
+<div class="portrait">{hasPortrait?<img src="/images/wade-portrait.webp" alt="Wade Olcott, founder of RevLytics" loading="lazy" width="640" height="720"/>:<div><span class="monogram" aria-hidden="true">WO</span><p>Wade Olcott · RevLytics</p></div>}</div>
