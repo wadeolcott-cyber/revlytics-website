@@ -1,6 +1,15 @@
 // Inventory verified against the original RevLytics Wix blog, October 2026.
-// All seven articles have been migrated to local Insights pages. Original Wix URLs are retained for future redirect mapping.
+// Seven original articles have been migrated to local Insights pages. Original Wix URLs are retained for redirect mapping.
 export const articles = [
+  {
+    "title": "When Does a Growing Company Need a Fractional Revenue Operations Leader?",
+    "date": "2026-11-12",
+    "slug": "when-does-a-growing-company-need-a-fractional-revenue-operations-leader",
+    "category": "Fractional leadership",
+    "description": "Five signs that a growing B2B company may need embedded fractional RevOps leadership—and when a specialist or full-time hire makes more sense.",
+    "status": "published",
+    "localUrl": "/insights/when-does-a-growing-company-need-a-fractional-revenue-operations-leader/"
+  },
   {
     "title": "Unlocking Sales Efficiency with CPQ: The Ultimate Guide for Businesses",
     "date": "2025-01-21",
